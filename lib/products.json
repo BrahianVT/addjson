@@ -1,0 +1,213 @@
+[
+  {
+    "id": "1",
+    "name": "Crisp Red Apple",
+    "price": 2.5,
+    "tags": [
+      "organic",
+      "fruit"
+    ],
+    "description": "A delicious and crisp red apple, grown organically.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyZWQlMjBhcHBsZXxlbnwwfHx8fDE3NjEyODg3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWQlMjBhcHBsZXxlbnwwfHx8fDE3NjEyODg3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "red apple",
+    "status": "approved",
+    "createdAt": "2024-07-20T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Sweet Banana",
+    "price": 1.8,
+    "tags": [
+      "fruit",
+      "sale"
+    ],
+    "description": "Perfectly ripe and sweet bananas, great for snacks.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1542062837-627a059e547f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx5ZWxsb3clMjBiYW5hbmF8ZW58MHx8fHwxNzYxMjI5NzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "yellow banana",
+    "status": "approved",
+    "createdAt": "2024-07-19T11:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Fresh Broccoli",
+    "price": 3,
+    "tags": [
+      "local",
+      "vegetable"
+    ],
+    "description": "Fresh broccoli florets from a local farm.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1613334730381-876999e05a1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGJyb2Njb2xpfGVufDB8fHx8MTc2MTIzMDg1Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "green broccoli",
+    "status": "approved",
+    "createdAt": "2024-07-18T12:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Organic Carrots",
+    "price": 2.2,
+    "tags": [
+      "organic",
+      "vegetable"
+    ],
+    "description": "A bunch of sweet and crunchy organic carrots.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1590848791238-fb3596a2ba56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvcmFuZ2UlMjBjYXJyb3R8ZW58MHx8fHwxNzYxMzExNTI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "orange carrot",
+    "status": "approved",
+    "createdAt": "2024-07-17T13:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Purple Grapes",
+    "price": 4.5,
+    "tags": [
+      "fruit"
+    ],
+    "description": "Juicy and sweet purple grapes, a perfect treat.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1416432969026-7e41a751ee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwdXJwbGUlMjBncmFwZXN8ZW58MHx8fHwxNzYxMzA3MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "purple grapes",
+    "status": "approved",
+    "createdAt": "2024-07-16T14:00:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Local Strawberries",
+    "price": 5,
+    "tags": [
+      "local",
+      "fruit",
+      "sale"
+    ],
+    "description": "Plump and juicy strawberries from a local grower.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1690578223262-00dd40bff984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWQlMjBzdHJhd2JlcnJ5fGVufDB8fHx8MTc2MTMwNzAwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "red strawberry",
+    "status": "approved",
+    "createdAt": "2024-07-15T15:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Vine-Ripened Tomato",
+    "price": 2.8,
+    "tags": [
+      "vegetable",
+      "local"
+    ],
+    "description": "Aromatic and flavorful vine-ripened tomatoes.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1630172821918-1df2441fb327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjB0b21hdG98ZW58MHx8fHwxNzYxMzQwNjk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "red tomato",
+    "status": "approved",
+    "createdAt": "2024-07-14T16:00:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Juicy Orange",
+    "price": 2,
+    "tags": [
+      "fruit"
+    ],
+    "description": "A sweet, seedless orange, packed with Vitamin C.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1557800636-894a64c1696f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvcmFuZ2UlMjBmcnVpdHxlbnwwfHx8fDE3NjEyODUxMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "orange fruit",
+    "status": "approved",
+    "createdAt": "2024-07-13T17:00:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Russet Potato",
+    "price": 1.2,
+    "tags": [
+      "vegetable"
+    ],
+    "description": "Versatile Russet potatoes, ideal for baking or frying.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1603048719539-9ecb4aa395e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJvd24lMjBwb3RhdG98ZW58MHx8fHwxNzYxMzQwNzAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "brown potato",
+    "status": "approved",
+    "createdAt": "2024-07-12T18:00:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Creamy Avocado",
+    "price": 3.5,
+    "tags": [
+      "organic",
+      "fruit"
+    ],
+    "description": "A perfectly ripe and creamy avocado, ready to eat.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1597581365760-158ac779fbdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGF2b2NhZG98ZW58MHx8fHwxNzYxMzQwNjk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "imageHint": "green avocado",
+    "status": "approved",
+    "createdAt": "2024-07-11T19:00:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Brian Test",
+    "price": 345,
+    "description": "nose haber que sale. xd",
+    "tags": [
+      "test",
+      "testw"
+    ],
+    "imageUrls": [
+      "/images/uploads/cada.jpg"
+    ],
+    "imageHint": "Brian Test",
+    "status": "approved",
+    "createdAt": "2025-07-10T20:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "test the images",
+    "price": 3456,
+    "description": "testing images uploaded",
+    "tags": [
+      "test",
+      "testw"
+    ],
+    "imageUrls": [
+      "/images/uploads/cada.jpg",
+      "/images/uploads/error.png",
+      "/images/uploads/free-online-icon-svg-download-png-448597.webp",
+      "/images/uploads/loginandgcp.png",
+      "/images/uploads/night-mode.png"
+    ],
+    "imageHint": "test the",
+    "status": "approved",
+    "createdAt": "2025-10-30T18:58:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "Brahian",
+    "price": 3,
+    "description": "another test xd",
+    "tags": [
+      "test",
+      "test"
+    ],
+    "imageUrls": [
+      "/images/uploads/error.png"
+    ],
+    "imageHint": "Brahian",
+    "status": "rejected",
+    "createdAt": "2025-10-30T19:21:29.634Z"
+  }
+]
