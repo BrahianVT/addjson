@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { Product } from '@/lib/products';
 
-export const runtime = 'runtime';
+export const runtime = 'edges';
 const productsFilePath = path.join(process.cwd(), 'src', 'lib', 'products.json');
 
 async function readProducts(): Promise<Product[]> {
