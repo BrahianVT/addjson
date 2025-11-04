@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { Product, products as allProducts } from '@/lib/products';
 
-export const runtime = 'edges';
+export const runtime = 'edge';
 const productsFilePath = path.join(process.cwd(), 'src', 'lib', 'products.json');
 
 export async function POST(request: Request) {
